@@ -5,3 +5,5 @@ animals_basic is the original, using just the JSON objects
 animals_objects is the new and improved, but incomplete.
 Your job is to add code to animals_objects, so it works.
 The HTML is complete. You only need to work with the JS.
+
+https://emma673r.github.io/animal_base/
